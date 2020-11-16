@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T15:26:57.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="LU5lBYmOnQ7uN8qFW0pt" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T18:24:44.717Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="yKkaZqACjw4G5fJxZZ_R" version="13.9.7" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
-    <mxGraphModel dx="1550" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-1" value="Order" style="html=1;dropTarget=0;" vertex="1" parent="1">
+        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-1" value="Auction" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QcD_j5zDJjR_Mdw5U3vG-1">
@@ -153,7 +153,7 @@
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-54" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;points=[];aspect=fixed;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="320" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-55" value="order information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-55" value="auction&lt;br&gt;information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="280" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-56" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="QcD_j5zDJjR_Mdw5U3vG-58" parent="1" source="QcD_j5zDJjR_Mdw5U3vG-50">
@@ -182,7 +182,7 @@
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-61" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;points=[];aspect=fixed;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="235" y="350" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-62" value="order information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-62" value="auction information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="290" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-63" value="postage information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -236,7 +236,7 @@
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-72" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;points=[];aspect=fixed;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="95" y="180" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-74" value="order information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-74" value="auction information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="140" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-75" value="buyer reflection" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -296,7 +296,7 @@
         <mxCell id="QcD_j5zDJjR_Mdw5U3vG-90" value="" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;strokeColor=#000000;fillColor=#ffffff;points=[];aspect=fixed;resizable=0;" vertex="1" parent="1">
           <mxGeometry x="245" y="570" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-91" value="payment&amp;nbsp; information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QcD_j5zDJjR_Mdw5U3vG-91" value="postage information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="555" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
